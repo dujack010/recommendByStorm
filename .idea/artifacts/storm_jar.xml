@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="storm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/storm_jar</output-path>
+    <root id="archive" name="storm.jar">
+      <element id="module-output" name="storm" />
+      <element id="extracted-dir" path="F:/mavenRepository/net/sf/jopt-simple/jopt-simple/3.2/jopt-simple-3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/mavenRepository/com/101tec/zkclient/0.3/zkclient-0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/mavenRepository/org/apache/kafka/kafka-clients/0.9.0.1/kafka-clients-0.9.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/mavenRepository/org/xerial/snappy/snappy-java/1.1.1.7/snappy-java-1.1.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/mavenRepository/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/mavenRepository/org/apache/kafka/kafka_2.10/0.8.2.1/kafka_2.10-0.8.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/mavenRepository/net/jpountz/lz4/lz4/1.2.0/lz4-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/mavenRepository/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/mavenRepository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.7" />
+      <element id="library" level="project" name="Maven: org.apache.kafka:kafka-clients:0.9.0.1" />
+      <element id="library" level="project" name="Maven: org.xerial.snappy:snappy-java:1.1.1.7" />
+      <element id="library" level="project" name="Maven: net.jpountz.lz4:lz4:1.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.kafka:kafka_2.10:0.8.2.1" />
+      <element id="library" level="project" name="Maven: com.yammer.metrics:metrics-core:2.2.0" />
+      <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.10.4" />
+      <element id="library" level="project" name="Maven: net.sf.jopt-simple:jopt-simple:3.2" />
+      <element id="library" level="project" name="Maven: com.101tec:zkclient:0.3" />
+    </root>
+  </artifact>
+</component>
